@@ -112,8 +112,8 @@ article footer {
   font-style: italic;
 }
 
-section.conferences article {
-  font-size: 0.8em;
+section.conferences strong {
+  color: #1C3144;
 }
 
 @media (max-width: 640px) {
