@@ -34,22 +34,9 @@ h3 {
   margin-top: 0;
 }
 
-.contact {
-  display: flex;
-  flex-direction: row;
-  font-size: 1.2em;
-}
-
-.contact span:not(:first-child) {
-  padding-left: 5px;
-}
-
-.contact span::before {
-  content: '| '
-}
-
 section {
   padding: 50px;
+  border-bottom: 10px solid #1C3144;
 }
 
 section.personal {
@@ -65,13 +52,27 @@ section.personal a {
   color: white;
 }
 
+.contact {
+  display: flex;
+  flex-direction: row;
+  font-size: 1.2em;
+}
+
+.contact span:not(:first-child) {
+  padding-left: 5px;
+}
+
+.contact span::before {
+  content: '| '
+}
+
 section.skills {
   background-color: #A2AEBB;
-  color: #1C3144;
 }
 
 section.skills ul {
   font-size: 1.5em;
+  color: #1C3144;
 }
 
 article {
@@ -109,6 +110,10 @@ article a {
 
 article footer {
   font-style: italic;
+}
+
+section.conferences article {
+  font-size: 0.8em;
 }
 
 @media (max-width: 640px) {
