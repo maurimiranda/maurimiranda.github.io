@@ -34,6 +34,10 @@ h3 {
   margin-top: 0;
 }
 
+h4 {
+  font-size: 1.2em;
+}
+
 section {
   padding: 50px;
   border-bottom: 10px solid #1C3144;
@@ -73,6 +77,16 @@ section.skills {
 section.skills ul {
   font-size: 1.5em;
   color: #1C3144;
+}
+
+section.experience ul {
+  padding: 1em;
+  background-color: #EEEEEE;
+  list-style: none;
+}
+
+section.experience ul li:last-child h4 {
+  margin-bottom: 0;
 }
 
 article {
@@ -125,10 +139,15 @@ section.conferences strong {
 @media print {
   html, body {
     font-size: 12px;
+    font-family: sans-serif;
   }
 
   section {
     padding: 30px;
+  }
+
+  .page-break {
+    page-break-before: always;
   }
 }
 
