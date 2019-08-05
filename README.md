@@ -1,2 +1,3 @@
-# resume
-My CV
+# My CV
+
+https://maurimiranda.github.io/resume/
