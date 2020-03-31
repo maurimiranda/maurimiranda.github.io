@@ -7,8 +7,6 @@ GitHub: [maurimiranda](https://github.com/maurimiranda) |
 GitLab: [maurimiranda](https://gitlab.com/maurimiranda) |
 LinkedIn: [mauriciomiranda](https://www.linkedin.com/in/mauriciomiranda/)
 
-### Skills
-
 - Software Developer, Team Leader, Project Manager
 - JavaScript, HTML, CSS, Node.js, Ruby
 - Web Mapping, Spatial Databases, Map Servers
