@@ -1,4 +1,3 @@
-
 ## About
 
 ### [maurimiranda@gmail.com](mailto:maurimiranda@gmail.com)
