@@ -167,18 +167,18 @@ _PHP, JavaScript, MySQL_
 
 ## Conferences
 
--   **FOSS4G Argentina 2019** | Member of organizing committee | _Buenos Aires, Argentina, 2019_
--   **CubaConf 2017** | Member of organizing committee | _Havana, Cuba, 2017_
--   **FOSS4G Argentina 2017** | Member of organizing committee | _Buenos Aires, Argentina, 2017_
--   **CubaConf 2016** | Presentation and workshop about Free Geomatics | _Havana, Cuba, 2016_
--   **FOSS4G Argentina 2016** | Member of organizing committee | _Buenos Aires, Argentina, 2016_
--   **15th Water Web Summit** | Presentation about Free Geomatics and communities | _Foz do Iguaçu, Brazil, 2014_
--   **FOSS4G Buenos Aires 2013** | Chairman | _Buenos Aires, Argentina, 2013_
--   **Primer Congreso Latinoamericano de SIG de código libre y abierto** | Presentation about Free Geomatics and communities | _Guayaquil, Ecuador, 2012_
--   **Primeras Jornadas Chilenas de gvSIG** | Presentation about Free Geomatics | _Santiago, Chile, 2012_
--   **III Conferencia Internacional sobre clima, sustentabilidad y desarrollo** | GeoServer and PostGIS Workshops | _Mendoza, Argentina, 2011_
--   **Encuentro de Trabajo del Programa Nacional Mapa Educativo Regional NOA** | Presentation about Free Geomatics, GeoServer and PostGIS Workshops | _Jujuy, Argentina, 2011_
--   **Primeras Jornadas Sudamericanas FOSS4G** | Presentation about OSGeo | _Santiago, Chile, 2011_
--   **FOSS4G 2010** | Attendant | _Barcelona, Spain, 2010_
--   **Décimas Jornadas Regionales de Software Libre** | Presentation about OSGeo | _San Luis, Argentina, 2010_
--   **FOSS4G 2009** | Attendant | _Sydney, Australia, 2009_
+- **FOSS4G Argentina 2019** | Member of organizing committee | _Buenos Aires, Argentina, 2019_
+- **CubaConf 2017** | Member of organizing committee | _Havana, Cuba, 2017_
+- **FOSS4G Argentina 2017** | Member of organizing committee | _Buenos Aires, Argentina, 2017_
+- **CubaConf 2016** | Presentation and workshop about Free Geomatics | _Havana, Cuba, 2016_
+- **FOSS4G Argentina 2016** | Member of organizing committee | _Buenos Aires, Argentina, 2016_
+- **15th Water Web Summit** | Presentation about Free Geomatics and communities | _Foz do Iguaçu, Brazil, 2014_
+- **FOSS4G Buenos Aires 2013** | Chairman | _Buenos Aires, Argentina, 2013_
+- **Primer Congreso Latinoamericano de SIG de código libre y abierto** | Presentation about Free Geomatics and communities | _Guayaquil, Ecuador, 2012_
+- **Primeras Jornadas Chilenas de gvSIG** | Presentation about Free Geomatics | _Santiago, Chile, 2012_
+- **III Conferencia Internacional sobre clima, sustentabilidad y desarrollo** | GeoServer and PostGIS Workshops | _Mendoza, Argentina, 2011_
+- **Encuentro de Trabajo del Programa Nacional Mapa Educativo Regional NOA** | Presentation about Free Geomatics, GeoServer and PostGIS Workshops | _Jujuy, Argentina, 2011_
+- **Primeras Jornadas Sudamericanas FOSS4G** | Presentation about OSGeo | _Santiago, Chile, 2011_
+- **FOSS4G 2010** | Attendant | _Barcelona, Spain, 2010_
+- **Décimas Jornadas Regionales de Software Libre** | Presentation about OSGeo | _San Luis, Argentina, 2010_
+- **FOSS4G 2009** | Attendant | _Sydney, Australia, 2009_
