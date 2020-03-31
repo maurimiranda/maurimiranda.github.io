@@ -1,7 +1,3 @@
-# Mauricio Miranda
-
-## GIS & Web Developer | FOSS Evangelist
-
 ### [maurimiranda@gmail.com](mailto:maurimiranda@gmail.com)
 
 GitHub: [maurimiranda](https://github.com/maurimiranda) |
