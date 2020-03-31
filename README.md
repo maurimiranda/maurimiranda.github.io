@@ -1,3 +1,3 @@
 # My CV
 
-https://maurimiranda.github.io
+[maurimiranda.github.io](https://maurimiranda.github.io)
