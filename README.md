@@ -1,20 +1,19 @@
+
+## About
+
 ### [maurimiranda@gmail.com](mailto:maurimiranda@gmail.com)
 
 GitHub: [maurimiranda](https://github.com/maurimiranda) |
 GitLab: [maurimiranda](https://gitlab.com/maurimiranda) |
 LinkedIn: [mauriciomiranda](https://www.linkedin.com/in/mauriciomiranda/)
 
-## Skills
+### Skills
 
 - Software Developer, Team Leader, Project Manager
 - JavaScript, HTML, CSS, Node.js, Ruby
 - Web Mapping, Spatial Databases, Map Servers
 
 ## Experience
-
-- 15+ years of Web Development
-- 10+ years of GIS Development
-- 10+ years of Project/Team Management
 
 ### GIS Developer
 
