@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.inner {
+  max-width: 960px;
+}
+
+@media print {
+  html, body {
+    font-size: 12px;
+    font-family: sans-serif;
+  }
+
+  section {
+    padding: 30px;
+  }
+
+  .page-break {
+    page-break-before: always;
+  }
+}
+
+@page {
+  margin-left: 0mm;
+  margin-right: 0mm;
+}
+
+@page:first {
+  margin-top: 0mm;
+}
