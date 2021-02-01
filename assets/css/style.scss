@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-body {
-  background-color: red;
-}
-
 .inner {
   max-width: 960px;
 }
@@ -15,6 +11,10 @@ body {
   html, body {
     font-size: 12px;
     font-family: sans-serif;
+  }
+  
+  body {
+    background-color: red;
   }
 
   section {
