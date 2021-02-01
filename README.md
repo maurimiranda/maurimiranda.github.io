@@ -7,8 +7,8 @@ GitLab: [maurimiranda](https://gitlab.com/maurimiranda) |
 LinkedIn: [mauriciomiranda](https://www.linkedin.com/in/mauriciomiranda/)
 
 - Software Developer, Team Leader, Project Manager
-- JavaScript, HTML, CSS, Node.js, Ruby
-- Web Mapping, Spatial Databases, Map Servers
+- JavaScript, Ruby, Python
+- Web Mapping, Spatial Databases, Map/Tile Servers
 
 ## Experience
 
@@ -30,6 +30,7 @@ _PostgreSQL/PostGIS, GDAL, Mapnik, Leaflet, Mapbox GL, Vue, Express.js, Python_
 Joined the IT team of [SIASAR](http://siasar.org) project to lead and develop the GIS stack.
 During this time I've created [GeoDashboard](http://github.com/maurimiranda/geodashboard),
 an open source and free web library to display data as maps and widgets using OGC standards.
+
 Also leaded the development of the multi-platform mobile application and played the role of
 SysAdmin managing all the servers and services involved in the project.
 As an extra, I also helped with some Drupal tasks, mainly related with the API that communicates
@@ -155,7 +156,7 @@ _PHP, JavaScript, MySQL_
 
 ## Education
 
-### Information Technology Engineer | Universidad de Mendoza | 1999 - 2012
+#### Information Technology Engineer | Universidad de Mendoza | 1999 - 2012
 
 ## Conferences
 

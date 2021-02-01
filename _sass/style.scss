@@ -8,27 +8,36 @@
 }
 
 @media print {
-  html, body {
-    font-size: 12px;
-    font-family: sans-serif;
+  .inner,
+  #header_wrap .inner {
+    padding-left: 50px;
+    padding-right: 50px;
   }
   
   body {
     background-color: red;
   }
 
-  section {
-    padding: 30px;
+  #main_content.inner {
+    background-color: white;
   }
 
-  .page-break {
-    page-break-before: always;
+  #footer_wrap {
+    display: none;
+  }
+
+  h2,
+  h3,
+  p {
+    break-inside: avoid;
   }
 }
 
 @page {
   margin-left: 0mm;
   margin-right: 0mm;
+  margin-top: 0mm;
+  margin-bottom: 0mm;
 }
 
 @page:first {
