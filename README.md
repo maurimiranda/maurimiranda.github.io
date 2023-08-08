@@ -28,6 +28,8 @@ of features/tools/prototypes, mostly related with GIS.
 
 _PostgreSQL/PostGIS, GDAL, Mapnik, MapboxGL, React, Node, Python, Django_
 
+&nbsp;
+
 ### Engineering Team Lead
 
 #### Ceres Imaging August 2021 - August 2022
@@ -36,6 +38,8 @@ Worked together with the Engineering Manager to keep all team members comfortabl
 I also did software architecture and development, mostly for GIS stuff.
 
 _PostgreSQL/PostGIS, GDAL, Mapnik, MapboxGL, React, Node, Python, Django_
+
+&nbsp;
 
 ### GIS Developer
 
@@ -47,6 +51,8 @@ using Mapnik and Express. Also worked on scripting tools to automatize image pro
 using Python and GDAL.
 
 _PostgreSQL/PostGIS, GDAL, Mapnik, Leaflet, Mapbox GL, Vue, Express.js, Python_
+
+&nbsp;
 
 ### GIS Consultant, Software Developer
 
@@ -68,8 +74,6 @@ _PostgreSQL/PostGIS, GeoServer, OpenLayers, Leaflet, GeoDashboard, ES6, React, E
 
 &nbsp;
 
-&nbsp;
-
 ### Full-Stack Developer
 
 #### Buoy Development | February 2017 - September 2018
@@ -81,6 +85,8 @@ from individual contributor to project lead.
 
 Ruby on Rails, Marionette, Node.js, Angular, React, SASS, RSpec, Capybara
 
+&nbsp;
+
 ### Charter Member
 
 #### OSGeo-es | March 2010 - Present
@@ -90,6 +96,8 @@ expand the use of the Free and Open Source Software for Geospatial in our region
 Became member of the Board of Directors of OSGeo-es at 2011 and co-founded GeoinquietosAR at 2012,
 a local community built around free geomatics in Argentina whom organized the first FOSS4G conference
 in LatinAmerica at 2013.
+
+&nbsp;
 
 ### Team Leader, Software Developer
 
@@ -108,6 +116,8 @@ from different cities in our coworking space.
 
 _Ruby on Rails, Laravel, Backbone, AngularJS, Selenium, WebdriverIO, Jasmine_
 
+&nbsp;
+
 ### GIS Consultant, Software Developer
 
 #### Ministerio de Agroindustria de la Nación | May 2014 - June 2016
@@ -118,6 +128,8 @@ to FOSS. Within the tools change we have fully redesigned their daily workflow a
 and publish geodata.
 
 _PostgreSQL/PostGIS, Ruby on Rails, Leaflet, QGIS, GeoServer_
+
+&nbsp;
 
 ### GIS Consultant, Software Developer
 
@@ -130,6 +142,8 @@ agencies.
 
 PostgreSQL/PostGIS, GeoServer, PHP, OpenLayers, GeoExplorer, GeoNode, gvSIG
 
+&nbsp;
+
 ### VP of Engineering
 
 #### XoomCode / GISWorking | March 2006 - November 2011
@@ -138,6 +152,8 @@ Leaded the IT team (up to 19 members) and managed projects for several industrie
 real estate, geomarketing, plague control, mining, cadastre and local government.
 
 _Ruby on Rails, Flex, PHP, OpenScales, OpenLayers, PostgreSQL/PostGIS, GeoServer, gvSIG, QGIS, GeoNode_
+
+&nbsp;
 
 ### Software Developer, DBA
 
@@ -148,6 +164,8 @@ servers to FOSS.
 
 _PHP, JavaScript, XML/XSLT, MySQL_
 
+&nbsp;
+
 ### Software Developer
 
 #### Belatrix Software Factory | November 2004 - April 2005
@@ -156,6 +174,8 @@ Joined the team working for [CloseToMyHeart](http://www.closetomyheart.com/) to 
 application.
 
 _ASP.NET, C#.NET, SQLServer_
+
+&nbsp;
 
 ### Software Developer
 
@@ -166,6 +186,8 @@ application.
 
 _C#.NET, Firebird_
 
+&nbsp;
+
 ### Software Developer
 
 #### Sein Argentina | June 2003 - December 2003
@@ -173,6 +195,8 @@ _C#.NET, Firebird_
 Developed desktop applications for wineries.
 
 _VisualBasic.NET, SQL Server, Oracle_
+
+&nbsp;
 
 ### Software Developer
 
@@ -183,9 +207,13 @@ store and generate statistics about the proliferation of the dengue virus.
 
 _PHP, JavaScript, MySQL_
 
+&nbsp;
+
 ## Education
 
 #### Information Technology Engineer | Universidad de Mendoza | 1999 - 2012
+
+&nbsp;
 
 ## Conferences
 
