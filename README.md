@@ -161,6 +161,8 @@ _Ruby on Rails, Flex, PHP, OpenScales, OpenLayers, PostgreSQL/PostGIS, GeoServer
 Hired by the Court of Auditors of Mendoza to help the IT department to migrate their applications and
 servers to FOSS.
 
+Created a PHP framework to develop several applications.
+
 _PHP, JavaScript, XML/XSLT, MySQL_
 
 &nbsp;
