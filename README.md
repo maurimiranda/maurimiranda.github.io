@@ -1,6 +1,6 @@
 ## About
 
-###d# [maurimiranda@gmail.com](mailto:maurimiranda@gmail.com)
+#### [maurimiranda@gmail.com](mailto:maurimiranda@gmail.com)
 
 GitHub: [maurimiranda](https://github.com/maurimiranda) |
 GitLab: [maurimiranda](https://gitlab.com/maurimiranda) |
