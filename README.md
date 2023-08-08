@@ -46,9 +46,8 @@ _PostgreSQL/PostGIS, GDAL, Mapnik, MapboxGL, React, Node, Python, Django_
 #### Ceres Imaging | October 2018 - August 2021
 
 Joined Ceres team to work on GIS data flow and full-stack development. Worked on the web application,
-mainly with the mapping components. Created a [Tile Server](https://github.com/ceresimaging/image-tiler)
-using Mapnik and Express. Also worked on scripting tools to automatize image processing
-using Python and GDAL.
+mainly with the mapping components. Created a Tile Server using Mapnik and Express. 
+Also worked on scripting tools to automatize image processing using Python and GDAL.
 
 _PostgreSQL/PostGIS, GDAL, Mapnik, Leaflet, Mapbox GL, Vue, Express.js, Python_
 
