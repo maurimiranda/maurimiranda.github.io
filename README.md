@@ -12,9 +12,31 @@ LinkedIn: [mauriciomiranda](https://www.linkedin.com/in/mauriciomiranda/)
 
 ## Experience
 
+### Engineering Manager
+
+#### Ceres Imaging August 2022 - Present
+
+As part of the engineering management my main goal is to grow a healthy and collaborative team. 
+I do my best to keep everyone happy and productive by resolving conflicts, organizing team building activities, 
+assisting with career development and helping engineers achieve their own personal and professional goals. 
+I also interact with other teams to define new requirements, feature development and process improvement. 
+Trying to keep in touch with the code as much as possible I do some architecture and development 
+of features/tools/prototypes, mostly related with GIS.
+
+_PostgreSQL/PostGIS, GDAL, Mapnik, MapboxGL, React, Node, Python, Django_
+
+### Engineering Team Lead
+
+#### Ceres Imaging August 2021 - August 2022
+
+Worked together with the Engineering Manager to keep all team members comfortable and happy. 
+I also did software architecture and development, mostly for GIS stuff.
+
+_PostgreSQL/PostGIS, GDAL, Mapnik, MapboxGL, React, Node, Python, Django_
+
 ### GIS Developer
 
-#### Ceres Imaging | October 2018 - Present
+#### Ceres Imaging | October 2018 - August 2021
 
 Joined Ceres team to work on GIS data flow and full-stack development. Worked on the web application,
 mainly with the mapping components. Created a [Tile Server](https://github.com/ceresimaging/image-tiler)
