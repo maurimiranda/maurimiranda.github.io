@@ -66,6 +66,10 @@ published with free licenses and all data collected is also available.
 
 _PostgreSQL/PostGIS, GeoServer, OpenLayers, Leaflet, GeoDashboard, ES6, React, Express, SASS, PhoneGap, Drupal, PHP_
 
+&nbsp;
+
+&nbsp;
+
 ### Full-Stack Developer
 
 #### Buoy Development | February 2017 - September 2018
