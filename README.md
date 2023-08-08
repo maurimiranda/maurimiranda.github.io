@@ -10,6 +10,8 @@ LinkedIn: [mauriciomiranda](https://www.linkedin.com/in/mauriciomiranda/)
 - JavaScript, Ruby, Python
 - Web Mapping, Spatial Databases, Map/Tile Servers
 
+&nbsp;
+
 ## Experience
 
 ### Engineering Manager
