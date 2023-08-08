@@ -6,7 +6,7 @@ GitHub: [maurimiranda](https://github.com/maurimiranda) |
 GitLab: [maurimiranda](https://gitlab.com/maurimiranda) |
 LinkedIn: [mauriciomiranda](https://www.linkedin.com/in/mauriciomiranda/)
 
-- Software Developer, Team Leader, Project Manager
+- Software Engineer, Team Leader, Project Manager
 - JavaScript, Ruby, Python
 - Web Mapping, Spatial Databases, Map/Tile Servers
 
@@ -20,6 +20,7 @@ As part of the engineering management my main goal is to grow a healthy and coll
 I do my best to keep everyone happy and productive by resolving conflicts, organizing team building activities, 
 assisting with career development and helping engineers achieve their own personal and professional goals. 
 I also interact with other teams to define new requirements, feature development and process improvement. 
+
 Trying to keep in touch with the code as much as possible I do some architecture and development 
 of features/tools/prototypes, mostly related with GIS.
 
