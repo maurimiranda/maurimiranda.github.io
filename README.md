@@ -1,12 +1,12 @@
 ## About
 
-### [maurimiranda@gmail.com](mailto:maurimiranda@gmail.com)
+###d# [maurimiranda@gmail.com](mailto:maurimiranda@gmail.com)
 
 GitHub: [maurimiranda](https://github.com/maurimiranda) |
 GitLab: [maurimiranda](https://gitlab.com/maurimiranda) |
 LinkedIn: [mauriciomiranda](https://www.linkedin.com/in/mauriciomiranda/)
 
-- Software Engineer, Team Leader, Project Manager
+- Software Engineering, Team Leadership, Project Management
 - JavaScript, Ruby, Python
 - Web Mapping, Spatial Databases, Map/Tile Servers
 
