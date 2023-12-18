@@ -16,7 +16,7 @@ LinkedIn: [mauriciomiranda](https://www.linkedin.com/in/mauriciomiranda/)
 
 ### Engineering Manager
 
-#### Ceres Imaging August 2022 - Present
+#### Ceres Imaging | August 2022 - November 2023
 
 As part of the engineering management my main goal is to grow a healthy and collaborative team. 
 I do my best to keep everyone happy and productive by resolving conflicts, organizing team building activities, 
@@ -32,7 +32,7 @@ _PostgreSQL/PostGIS, GDAL, Mapnik, MapboxGL, React, Node, Python, Django_
 
 ### Engineering Team Lead
 
-#### Ceres Imaging August 2021 - August 2022
+#### Ceres Imaging | August 2021 - August 2022
 
 Worked together with the Engineering Manager to keep all team members comfortable and happy. 
 I also did software architecture and development, mostly for GIS stuff.
