@@ -18,12 +18,12 @@ LinkedIn: [mauriciomiranda](https://www.linkedin.com/in/mauriciomiranda/)
 
 #### Ceres Imaging | August 2022 - November 2023
 
-As part of the engineering management my main goal is to grow a healthy and collaborative team. 
-I do my best to keep everyone happy and productive by resolving conflicts, organizing team building activities, 
+As part of the engineering management my main goal was to grow a healthy and collaborative team. 
+I did my best to keep everyone happy and productive by resolving conflicts, organizing team building activities, 
 assisting with career development and helping engineers achieve their own personal and professional goals. 
-I also interact with other teams to define new requirements, feature development and process improvement. 
+I also interacted with other teams to define new requirements, feature development and process improvement. 
 
-Trying to keep in touch with the code as much as possible I do some architecture and development 
+Trying to keep in touch with the code as much as possible I did some architecture and development 
 of features/tools/prototypes, mostly related with GIS.
 
 _PostgreSQL/PostGIS, GDAL, Mapnik, MapboxGL, React, Node, Python, Django_
