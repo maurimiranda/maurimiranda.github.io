@@ -61,7 +61,7 @@ Joined the IT team of [SIASAR](http://siasar.org) project to lead and develop th
 During this time I've created [GeoDashboard](http://github.com/maurimiranda/geodashboard),
 an open source and free web library to display data as maps and widgets using OGC standards.
 
-Also leaded the development of the multi-platform mobile application and played the role of
+Also led the development of the multi-platform mobile application and played the role of
 SysAdmin managing all the servers and services involved in the project.
 As an extra, I also helped with some Drupal tasks, mainly related with the API that communicates
 with the mobile app.
@@ -102,7 +102,7 @@ in LatinAmerica at 2013.
 
 #### Deviget | October 2011 - February 2016
 
-Leaded a distributed team of developers working for [Equifax](https://www.equifax.com/personal/),
+Led a distributed team of developers working for [Equifax](https://www.equifax.com/personal/),
 specially on their ID theft protection product [TrustedID](https://www.trustedid.com/).
 This was a long trip of ~4.5 years where I was involved in many different subprojects and duties,
 from Scrum Master to QA automation developer. It was a great experience and I learnt a lot about how to
@@ -147,7 +147,7 @@ PostgreSQL/PostGIS, GeoServer, PHP, OpenLayers, GeoExplorer, GeoNode, gvSIG
 
 #### XoomCode / GISWorking | March 2006 - November 2011
 
-Leaded the IT team (up to 19 members) and managed projects for several industries like precision agriculture,
+Led the IT team (up to 19 members) and managed projects for several industries like precision agriculture,
 real estate, geomarketing, plague control, mining, cadastre and local government.
 
 _Ruby on Rails, Flex, PHP, OpenScales, OpenLayers, PostgreSQL/PostGIS, GeoServer, gvSIG, QGIS, GeoNode_
